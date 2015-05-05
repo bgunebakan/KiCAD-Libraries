@@ -1,2 +1,2 @@
 # KiCAD-Libraries
-KiCAD libraries created by me
+KiCAD libraries created by Ufak işler
